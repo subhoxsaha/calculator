@@ -43,11 +43,6 @@ calculator/
 
 ---
 
-## 📸 Screenshot (Optional)
-
-*Add a screenshot of your calculator UI here if you want.*
-
----
 
 ## 📝 Example
 
